@@ -1,0 +1,10 @@
+apache		https://mirrors4.tuna.tsinghua.edu.cn/apache/
+cpan		https://mirrors4.tuna.tsinghua.edu.cn/CPAN/
+cran		https://mirrors.tuna.tsinghua.edu.cn/CRAN/
+debian		https://mirrors4.tuna.tsinghua.edu.cn/debian/
+gmt		http://ftp.iris.washington.edu/pub/gmt/ ftp://ftp.soest.hawaii.edu/gmt/ ftp://ftp.iris.washington.edu/pub/gmt/ ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt
+gnu		https://mirrors4.tuna.tsinghua.edu.cn/gnu/
+openbsd		https://mirrors4.tuna.tsinghua.edu.cn/OpenBSD/
+openssl		https://www.openssl.org/ https://artfiles.org/openssl.org/ https://www.mirrorservice.org/sites/ftp.openssl.org/ ftp://ftp.openssl.org
+pypi		https://mirrors4.tuna.tsinghua.edu.cn/pypi/
+ubuntu		https://mirrors4.tuna.tsinghua.edu.cn/ubuntu/ubuntu/
